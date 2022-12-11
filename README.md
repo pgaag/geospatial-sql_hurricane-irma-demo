@@ -1,4 +1,4 @@
-# A demo of spatial SQL with data from Huricane Irma and the counties of Florida
+# A demo of spatial SQL with data from huricane Irma and the counties of Florida
 
 The datasets used in this demo were downloaded from the the [United State Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.html) and the [National Oceanic and Atmospheric Administration](https://www.nhc.noaa.gov/data/tcr/index.php?season=2017&basin=atl)
 
